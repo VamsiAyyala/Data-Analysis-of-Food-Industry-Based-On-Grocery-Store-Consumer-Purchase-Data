@@ -1,17 +1,24 @@
 
 Problem:
+
 Food companies are uncertain about what types of products they should produce:
+
 1.Millions of consumer purchases each year
+
 2.Purchases fall under a number of different categories
-3.Lots of data related to consumer behavior going unutilized:
+
+3.Lots of data related to consumer behavior going unutilized
     (Social media,
     Recipes,
     Grocery transactions and orders,
     Food ingredient lists currently available on the market)
 
 Goal of the program:
+
 1.Analyzes grocery transactions to determine what the most popular food product/ingredient is
+
 2.Categorizes each product/ingredient into the particular growing food industry subdivision
+
 3.Ranks each food category in ascending order to determine which one is the most popular
 
 
