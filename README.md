@@ -16,6 +16,7 @@ Goal of the program:
 
 
 Conclusion:
+ 
  Vegetables are the most popularly consumed food product, followed by fruits, then meat and lastly sugar. The popularity in grocery item consumer purchases represented by these purchases are reflected by consumer trends that are apparent in the food industry today.
  Sugary foods and meat are ranked the lowest popularity among consumers while fruits and vegetables are the highest. This is best supported by consumer trends which report that customers are driving their interest away from high calorie and meat based foods to products with lower concentrations of sugar and are primarily composed of plant based protein.
   
