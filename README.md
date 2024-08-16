@@ -1,5 +1,6 @@
 
 Problem:
+
 Food companies are uncertain about what types of products they should produce:
 1. Millions of consumer purchases each year
 2. Purchases fall under several different categories
